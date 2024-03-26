@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fr.ogi.page/sitemap.xml
